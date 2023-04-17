@@ -1,0 +1,6 @@
+C:\Users\a\Desktop\Interpreter\test\obj\Debug\net6.0\CODELexer.cs
+C:\Users\a\Desktop\Interpreter\test\obj\Debug\net6.0\CODEParser.cs
+C:\Users\a\Desktop\Interpreter\test\obj\Debug\net6.0\CODEListener.cs
+C:\Users\a\Desktop\Interpreter\test\obj\Debug\net6.0\CODEBaseListener.cs
+C:\Users\a\Desktop\Interpreter\test\obj\Debug\net6.0\CODEVisitor.cs
+C:\Users\a\Desktop\Interpreter\test\obj\Debug\net6.0\CODEBaseVisitor.cs

@@ -1,0 +1,8 @@
+BEGIN CODE
+    # This is a comment
+    INT z=-25
+    INT y=5+2
+    BOOL t="TRUE"
+    CHAR a_1='c'
+    DISPLAY: z & a_1 & y & $ & "wow" & t
+END CODE
